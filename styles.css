@@ -1,0 +1,32 @@
+.container-contenido {
+    color: red; 
+
+}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container  {
+    color: blue;
+    display: flex;
+    width: 400px;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: black solid 3px;
+    padding: 30px 30px 30px 30px;
+}
+
+p {
+   
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    float: left;
+}
